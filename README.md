@@ -1,12 +1,12 @@
 
 
-#LegalIntake Pro — First-Mile Legal Intake Platform
+## LegalIntake Pro — First-Mile Legal Intake Platform
 
 A guided and collaborative intake system that captures structured legal narratives with real-time clarification and  auditability — built for self-help clients of court, law firms and legal aid organizations
 
 
 
-##Overview
+## Overview
 
 LegalIntake Pro transforms unstructured client stories into fact-complete intake drafts through a structured, user-friendly process with built-in review tools. Unlike traditional static forms or unstructured text entry, the platform integrates:
 	•	Guided intake workflows
@@ -21,7 +21,7 @@ Designed for the first mile of legal work, this tool ensures important details a
 
 
 
-##Key Features
+## Key Features
 
 1. Context Capture & Case Metadata
 
@@ -85,7 +85,7 @@ Finalized case narratives can be exported in multiple formats, including:
 
 
 
-##Project Structure
+## Project Structure
 
 
 
