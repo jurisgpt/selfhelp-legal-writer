@@ -2,9 +2,7 @@
 
 ## LegalIntake Pro — First-Mile Legal Intake Platform
 
-A guided and collaborative intake system that captures structured legal narratives with real-time clarification and  auditability — built for self-help clients of court, law firms and legal aid organizations
-
-
+A guided and collaborative case drafting  system that captures legal narratives drafted by lay persons and assists users draft legally sound and complete narratives — built for self-help clients of court, law firms and legal aid organizations
 
 ## Overview
 
@@ -19,8 +17,6 @@ LegalIntake Pro transforms unstructured client stories into fact-complete intake
 
 Designed for the first mile of legal work, this tool ensures important details are captured early, reducing follow-ups, accelerating case triage, and improving client experience.
 
-
-
 ## Key Features
 
 1. Context Capture & Case Metadata
@@ -34,8 +30,6 @@ Users begin with a structured intake form to define:
 
 Purpose: Enables the system to tailor questions and prioritize jurisdiction-specific requirements.
 
-
-
 2. Guided Intake Flow
 
 A step-by-step process ensures essential factual domains are addressed:
@@ -47,13 +41,9 @@ A step-by-step process ensures essential factual domains are addressed:
 
 Each step includes clear guidance and practical examples to help users provide complete information. Users may switch between guided mode and free narrative entry at any time.
 
-
-
 3. Gap Detection and Clarification
 
 As information is entered, the system flags incomplete or inconsistent entries. Intake staff or designated reviewers can send clarification questions directly to the client within the platform, keeping the process moving without additional phone calls or emails.
-
-
 
 4. Collaboration and Review
 
@@ -62,8 +52,6 @@ Role-based editing allows paralegals, intake specialists, and subject matter exp
 	•	Resolve factual ambiguities
 	•	Capture cultural or linguistic nuances
 	•	Approve or request revisions
-
-
 
 5. Version History and Audit Trail
 
@@ -75,8 +63,6 @@ All changes are recorded with:
 
 This ensures accountability and supports compliance with professional record-keeping standards.
 
-
-
 6. Export and Handoff
 
 Finalized case narratives can be exported in multiple formats, including:
@@ -84,13 +70,7 @@ Finalized case narratives can be exported in multiple formats, including:
 	•	Email
 
 
-
 ## Project Structure
-
-
-
-
-
 
 Getting Started
 
@@ -98,9 +78,7 @@ Prerequisites
 	
 Installation
 
-# Install dependencies
-
-
+## Install dependencies
 
  Roadmap
 	•	Integration with multilingual support
@@ -110,14 +88,11 @@ Installation
 	•	User authentication and secure client portals
 
 
-
- Contributing
+## Contributing
 
 Contributions are welcome. Please open an issue or submit a pull request to propose changes.
 
-
-
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
